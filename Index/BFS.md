@@ -1,6 +1,6 @@
-| 题目                                                         | 题解                                                         | 难度 | 推荐指数 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------- |
-|[java] [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | [LeetCode 题解链接](https://leetcode-cn.com/problems/subsets-ii/solution/gong-shui-san-xie-yi-ti-shuang-jie-hui-s-g77q/) | 中等 | 🤩🤩🤩🤩     |
+| 题目                                                         | 题解                                                         | 难度 | 推荐指数 |java|python|
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------- |---- | -------- |
+| [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | [LeetCode 题解链接](https://leetcode-cn.com/problems/subsets-ii/solution/gong-shui-san-xie-yi-ti-shuang-jie-hui-s-g77q/) | 中等 | 🤩🤩🤩🤩     |3| 3|
 | [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/solution/gong-shui-san-xie-er-cha-shu-de-xu-lie-h-n89a/) | 困难 | 🤩🤩🤩🤩     |
 | [397. 整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/integer-replacement/solution/gong-shui-san-xie-yi-ti-san-jie-dfsbfs-t-373h/) | 中等 | 🤩🤩🤩🤩     |
 | [403. 青蛙过河](https://leetcode-cn.com/problems/frog-jump/) | [LeetCode 题解链接](https://leetcode-cn.com/problems/frog-jump/solution/gong-shui-san-xie-yi-ti-duo-jie-jiang-di-74fw/) | 困难 | 🤩🤩🤩🤩     |
